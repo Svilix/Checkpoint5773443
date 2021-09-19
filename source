@@ -1,0 +1,73 @@
+
+local args = {
+    [1] = 1
+}
+
+game:GetService("ReplicatedStorage").VANSCompetition_CheckpointReached:FireServer(unpack(args))
+
+local args = {
+    [1] = 2
+}
+
+game:GetService("ReplicatedStorage").VANSCompetition_CheckpointReached:FireServer(unpack(args))
+local args = {
+    [1] = 3
+}
+
+game:GetService("ReplicatedStorage").VANSCompetition_CheckpointReached:FireServer(unpack(args))
+
+local args = {
+    [1] = 4
+}
+
+game:GetService("ReplicatedStorage").VANSCompetition_CheckpointReached:FireServer(unpack(args))
+local args = {
+    [1] = 5
+}
+
+game:GetService("ReplicatedStorage").VANSCompetition_CheckpointReached:FireServer(unpack(args))
+local args = {
+    [1] = 6
+}
+
+game:GetService("ReplicatedStorage").VANSCompetition_CheckpointReached:FireServer(unpack(args))
+local args = {
+    [1] = 7
+}
+
+game:GetService("ReplicatedStorage").VANSCompetition_CheckpointReached:FireServer(unpack(args))
+local args = {
+    [1] = 8
+}
+
+game:GetService("ReplicatedStorage").VANSCompetition_CheckpointReached:FireServer(unpack(args))
+local args = {
+    [1] = 9
+}
+
+game:GetService("ReplicatedStorage").VANSCompetition_CheckpointReached:FireServer(unpack(args))
+local args = {
+    [1] = 10
+}
+
+game:GetService("ReplicatedStorage").VANSCompetition_CheckpointReached:FireServer(unpack(args))
+local args = {
+    [1] = 11
+}
+
+game:GetService("ReplicatedStorage").VANSCompetition_CheckpointReached:FireServer(unpack(args))
+local args = {
+    [1] = 12
+}
+
+game:GetService("ReplicatedStorage").VANSCompetition_CheckpointReached:FireServer(unpack(args))
+local args = {
+    [1] = 13
+}
+
+game:GetService("ReplicatedStorage").VANSCompetition_CheckpointReached:FireServer(unpack(args))
+local args = {
+    [1] = 14
+}
+
+game:GetService("ReplicatedStorage").VANSCompetition_CheckpointReached:FireServer(unpack(args))
